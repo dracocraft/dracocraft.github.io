@@ -1,1 +1,9 @@
-
+game.StarterGui:SetCore("SendNotification", {
+        Title = 'Inyeccion';
+                            Text = 'T4N ha sido injectado!';
+                            Icon = 'rbxassetid://10216597082';
+                            Duration = 10;
+                            
+                            Button1 = 'Ok';
+                          
+                        })
