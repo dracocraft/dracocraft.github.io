@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
-        Title = 'Ejecución / Execution';
-                            Text = 'El script ha sido ejecutado / The script has ben executed';
+        Title = 'Injección / Injection';
+                            Text = 'Tu api esta injectada CORRECTAMENTE!!!';
                             Icon = 'rbxassetid://10216597082';
                             Duration = 10;
                             
